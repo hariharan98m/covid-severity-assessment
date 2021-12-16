@@ -1,4 +1,4 @@
-# COVID-19 severity assessment
+## CT-based Severity Assessment for COVID-19 using Weakly Supervised Non-local Attention CNN
 
 Contributors: Hariharan, M., Karthik, R., Menaka, R.
 
